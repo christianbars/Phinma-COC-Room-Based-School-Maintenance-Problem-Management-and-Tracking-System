@@ -1,0 +1,2 @@
+# Phinma-COC-Room-Based-School-Maintenance-Problem-Management-and-Tracking-System
+The PHINMA COC Room-Based School Maintenance Problem Management and Tracking System is a Java-based application that allows students to report room-related problems and maintenance staff / Supervisor to manage, track, and update their statuses. It uses Java Swing for the interface and MySQL to store and manage reports and maintenance records.
